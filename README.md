@@ -18,8 +18,8 @@ PyTorch를 활용한 딥러닝 기초부터 응용까지의 실습 노트북들�
 | ☑️ | PyTorch_Practice5.5__MLP_ln.ipynb | MLP 추가 실습 및 개선 |
 | ☑️ | PyTorch_Practice6__CNN_Part1.ipynb | 합성곱 신경망 (CNN) 기본 구조 |
 | ☑️ | PyTorch_Practice7__CNN_Part2.ipynb | CNN 심화 및 응용 |
-| ⬜ | PyTorch_Practice8__RNN.ipynb | 순환 신경망 (RNN) |
-| ⬜ | PyTorch_Practice9__LSTM.ipynb | 장단기 기억 네트워크 (LSTM) |
+| ☑️ | PyTorch_Practice8__RNN.ipynb | 순환 신경망 (RNN) |
+| ☑️ | PyTorch_Practice9__LSTM.ipynb | 장단기 기억 네트워크 (LSTM) |
 | ⬜ | PyTorch_Practice10__NLP.ipynb | 자연어처리 기초 실습 (NLP) |
 
 ---
